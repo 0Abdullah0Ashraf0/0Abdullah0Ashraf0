@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Abdullah%20Ashraf&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20%7C%20AAST&descAlignY=58&descSize=18" alt="header" />
 
-<a href="https://github.com/0Abdullah0Ashraf0"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=520&lines=Computer+Science+student+%40+AAST;Building+a+V2I+Digital+Twin;AI+%26+Automation+%7C+Machine+Learning;Backend+%7C+IoT+%7C+Simulation;Always+learning+something+new" alt="typing" /></a>
+<a href="https://github.com/0Abdullah0Ashraf0"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=520&lines=Computer+Science+student+%40+AAST;AI+%26+Automation;Machine+Learning;Backend+Engineering;Always+learning+something+new" alt="typing" /></a>
 
 <br/>
 
@@ -17,12 +17,12 @@
 ## 👋 About me
 
 I'm a **Computer Science student at AAST** with a strong interest in **AI, automation, machine learning** and emerging technology.
-I like learning by building**.
+I like learning by building.
 
 - 🎓 Studying Computer Science at **AAST**
 - 🔭 Currently working on my **graduation project**
 - 🤖 Passionate about **AI, automation and machine learning**
-- 🌱 Exploring backend engineering, IoT messaging and simulation, Ai automation and technology
+- 🌱 Exploring backend engineering, AI automation and new technology
 - 🤝 Open to collaborating on interesting projects
 - 📫 Reach me at **0abdallah0ashraf0@gmail.com**
 
@@ -36,7 +36,6 @@ I like learning by building**.
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -55,21 +54,6 @@ I like learning by building**.
 | Learning and applying ML to real data | Automating workflows and repetitive tasks | Following AI agents, LLMs and the tools around them |
 
 </div>
-
----
-
-## 🚀 Current project
-
-### 🚦 Digital Twin
-A team project that models vehicles and road infrastructure as a digital twin.
-
-| Area | What it uses |
-|------|--------------|
-| **Backend API** | FastAPI, Pydantic, WebSockets |
-| **Data layer** | PostgreSQL, SQLAlchemy, Alembic |
-| **Messaging** | MQTT (Eclipse Mosquitto) telemetry with a validated JSON schema |
-| **Simulation** | SUMO via TraCI |
-| **Dev environment** | Docker Compose, dev containers |
 
 ---
 
