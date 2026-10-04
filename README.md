@@ -46,7 +46,7 @@ I like learning by building**.
 
 ## 🚀 Current project
 
-### 🚦 V2I Digital Twin
+### 🚦 Digital Twin
 A team project that models vehicles and road infrastructure as a digital twin.
 
 | Area | What it uses |
