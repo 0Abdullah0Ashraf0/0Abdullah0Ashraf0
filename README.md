@@ -17,11 +17,11 @@
 ## 👋 About me
 
 I'm a **Computer Science student at AAST** with a strong interest in software, systems and emerging technology.
-I like learning by building, and I'm currently working with a team on a **Vehicle-to-Infrastructure (V2I) Digital Twin**.
+I like learning by building**.
 
 - 🎓 Studying Computer Science at **AAST**
-- 🔭 Currently working on a **V2I Digital Twin** (traffic simulation, telemetry and real-time data)
-- 🌱 Exploring backend engineering, IoT messaging and simulation
+- 🔭 Currently working on my **graduation project**
+- 🌱 Exploring backend engineering, IoT messaging and simulation, Ai automation and technology
 - 🤝 Open to collaborating on interesting projects
 - 📫 Reach me at **0abdallah0ashraf0@gmail.com**
 
